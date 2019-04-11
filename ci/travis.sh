@@ -11,4 +11,4 @@ curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
 # Configure and compile
 po config v0.8.0-rc.14
 po install
-po P1 run compile-user
+po P1 build-beta

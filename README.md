@@ -1,6 +1,7 @@
 # IoT Robot Arm Project
 
 [![Open Issues](https://img.shields.io/github/issues/nrobinson2000/robot-arm.svg)](https://github.com/nrobinson2000/robot-arm/issues)
+[![Build Status](https://travis-ci.org/nrobinson2000/robot-arm.svg?branch=master)](https://travis-ci.org/nrobinson2000/robot-arm)
 
 A Particle project named robot-arm
 
