@@ -6,6 +6,8 @@ sudo curl -fsSLo /usr/local/share/po-linux https://raw.githubusercontent.com/nro
 sudo curl -fsSLo /usr/local/bin/po https://raw.githubusercontent.com/nrobinson2000/po/master/bin/po
 sudo chmod +x /usr/local/bin/po
 
+curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+
 # Configure and compile
 po config v0.8.0-rc.14
 po install
