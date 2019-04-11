@@ -62,12 +62,10 @@ TODO: UML DIAGRAM HERE
 
 ## Trello Board (Task Management)
 
-https://trello.com/b/WkxwAjBQ/robot-arm-project
-
+[https://trello.com/b/WkxwAjBQ/robot-arm-project](https://trello.com/b/WkxwAjBQ/robot-arm-project)
 ## Travis CI (Continuous Integration Testing)
 
-https://travis-ci.org/nrobinson2000/robot-arm
-
+[https://travis-ci.org/nrobinson2000/robot-arm](https://travis-ci.org/nrobinson2000/robot-arm)
 ## License
 
 Copyright (c) Nathan Robinson. All rights reserved.
