@@ -1,4 +1,6 @@
-# robot-arm
+# IoT Robot Arm Project
+
+[![Open Issues](https://img.shields.io/github/issues/nrobinson2000/robot-arm.svg)](https://github.com/nrobinson2000/robot-arm/issues)
 
 A Particle project named robot-arm
 
