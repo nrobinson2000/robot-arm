@@ -6,7 +6,6 @@ A Particle project named robot-arm
 
 ADD IMAGE HERE
 
-
 ## Components
 
 [Robot Arm Kit](https://www.amazon.com/gp/product/B008MONL8O)
