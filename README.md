@@ -17,7 +17,7 @@ ___
 
 [Nathan Robinson](https://nrobinson.me) - Developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly.
 
-J Tarness - Designed the presentation for the for the project.
+J Tarness - Designed the presentation for the project.
 
 ## System Diagram
 
