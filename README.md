@@ -3,23 +3,17 @@
 [![Build Status](https://travis-ci.org/nrobinson2000/robot-arm.svg?branch=master)](https://travis-ci.org/nrobinson2000/robot-arm)
 [![Open Issues](https://img.shields.io/github/issues/nrobinson2000/robot-arm.svg)](https://github.com/nrobinson2000/robot-arm/issues)
 
-Facere eveniet quos quod dolore quia. Consequatur nam qui quidem in. Nulla tempora non necessitatibus ut est vitae nostrum. Facere dolore corrupti vel eos voluptas nobis. Nemo laudantium accusamus molestiae. Placeat soluta quia delectus eum.
-
-Deleniti maiores minima pariatur. Occaecati expedita natus recusandae. Ad veritatis laboriosam qui. Inventore vel incidunt praesentium commodi.
+For this Hackathon we created an IoT robotic arm that can be controlled wirelessly or via USB. The are can be controlled to move and lift objects. I built the arm using a kit and added functionality using a Particle IoT development board.
 
 ![](images/header.jpg)
-
-Amet earum quisquam iusto dolor. Asperiores accusamus dolore et optio qui. Voluptas minima delectus nostrum fugiat est quo. Quidem dolor et eligendi qui a est dolorem consequatur.
 
 ## Team Members
 
 [Nathan Robinson](https://nrobinson.me) - Assembled the hardware, developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly.
 
-J Tarness - Developed a frontend application to wirelessly communincate with the robot arm. Designed and pitched the project presentation.
+J Tarness - Developed a frontend application to wirelessly communicate with the robot arm. Designed and pitched the project presentation.
 
-## System Diagram
-
-TODO: UML DIAGRAM HERE
+## Applications
 
 * Hardware (arm with Particle board attached)
 * Scripting Application (Using Bash scripts to relay list of instructions)
