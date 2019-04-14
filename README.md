@@ -11,8 +11,6 @@ Deleniti maiores minima pariatur. Occaecati expedita natus recusandae. Ad verita
 
 Amet earum quisquam iusto dolor. Asperiores accusamus dolore et optio qui. Voluptas minima delectus nostrum fugiat est quo. Quidem dolor et eligendi qui a est dolorem consequatur.
 
-___
-
 ## Team Members
 
 [Nathan Robinson](https://nrobinson.me) - Developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly.

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+po P1 run compile-user
+particle flash hackathon target/robot-arm.bin

@@ -1,6 +1,7 @@
 {
-    "particle.firmwareVersion": "0.8.0-rc.14",
+    "particle.firmwareVersion": "1.0.1",
     "cortex-debug.openocdPath": "/Users/nrobinson/.particle/toolchains/openocd/0.10.0-particle.1/bin/openocd",
     "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
-    "particle.targetPlatform": "p1"
+    "particle.targetPlatform": "p1",
+    "particle.targetDevice": "hackathon"
 }
