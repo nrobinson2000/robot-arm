@@ -7,15 +7,15 @@ Facere eveniet quos quod dolore quia. Consequatur nam qui quidem in. Nulla tempo
 
 Deleniti maiores minima pariatur. Occaecati expedita natus recusandae. Ad veritatis laboriosam qui. Inventore vel incidunt praesentium commodi.
 
-![](images/arm-initial.jpg)
+![](images/header.jpg)
 
 Amet earum quisquam iusto dolor. Asperiores accusamus dolore et optio qui. Voluptas minima delectus nostrum fugiat est quo. Quidem dolor et eligendi qui a est dolorem consequatur.
 
 ## Team Members
 
-[Nathan Robinson](https://nrobinson.me) - Developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly.
+[Nathan Robinson](https://nrobinson.me) - Assembled the hardware, developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly. Designed the presentation for the project.
 
-J Tarness - Designed the presentation for the project.
+J Tarness - Developed a frontend application to wirelessly communincate with the robot arm. Pitched the project presentation.
 
 ## System Diagram
 
@@ -31,9 +31,7 @@ TODO: UML DIAGRAM HERE
 
 * [Robot Arm Kit](https://www.amazon.com/gp/product/B008MONL8O)
 
-* [Adafruit Motor Shield](https://www.amazon.com/gp/product/B01NBI8L0U)
-
-* [Motor Driver](https://www.amazon.com/gp/product/B014KMHSW6)
+* [Adafruit Motor Shield](https://www.adafruit.com/product/1438)
 
 * [Sparkfun Photon RedBoard](https://www.sparkfun.com/products/13321)
 
