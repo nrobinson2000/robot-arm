@@ -13,9 +13,9 @@ Amet earum quisquam iusto dolor. Asperiores accusamus dolore et optio qui. Volup
 
 ## Team Members
 
-[Nathan Robinson](https://nrobinson.me) - Assembled the hardware, developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly. Designed the presentation for the project.
+[Nathan Robinson](https://nrobinson.me) - Assembled the hardware, developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly.
 
-J Tarness - Developed a frontend application to wirelessly communincate with the robot arm. Pitched the project presentation.
+J Tarness - Developed a frontend application to wirelessly communincate with the robot arm. Designed and pitched the project presentation.
 
 ## System Diagram
 
