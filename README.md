@@ -3,23 +3,45 @@
 [![Build Status](https://travis-ci.org/nrobinson2000/robot-arm.svg?branch=master)](https://travis-ci.org/nrobinson2000/robot-arm)
 [![Open Issues](https://img.shields.io/github/issues/nrobinson2000/robot-arm.svg)](https://github.com/nrobinson2000/robot-arm/issues)
 
-For this Hackathon we created an IoT robotic arm that can be controlled wirelessly or via USB. The are can be controlled to move and lift objects. I built the arm using a kit and added functionality using a Particle IoT development board.
+## Description of the project
+
+For this Hackathon I was inspired to create a robotic arm that can be controlled over a USB cable or wirelessly over the internet. I wanted to create the arm using a kit I had bought from Amazon, a Sparkfun Photon Redboard, and an Adafruit Motor Shield.
 
 ![](images/header.jpg)
 
+The goal of the project was to build the arm and create an application that would allow users to send the arm input obtained from a Logitech gamepad.
+
+I successfully assembled the arm and added functionality by wiring it to the Redboard and the Motor Shield. Due to the time constraints of the hackathon, I was unable to complete the application element of the project. The arm is functional, as it can receive commands to move the individual motors, but the commands have to be sent manually because I have not implemented gamepad support yet.
+
+![](images/jpegs/battlestation.jpg)
+
+I plan to continue this project. I will work on adding support for controlling the arm through the gamepad and create an intuitive graphical interface for monitoring the status of the arm. Once I have completed the project I will create a video documenting the process.
+
+## Challenges I ran into
+
+There were a few challenges I ran into while creating the project.
+
+One of the challenges was that although there was a "Hardware Station" at the hackathon, there was no soldering equipment or screwdrivers available. This was a significant setback because it meant that I could not finish assembling the hardware component of the project, and therefore could not test if the software was working. To solve this problem I had to take a Lyft to Micro Center during the hackathon so I could buy a soldering kit. I completed the assembly of the arm later that night.
+
+![](images/jpegs/assembly.jpg)
+
+A second challenge was that neither my partner or I had enough time to implement the application in Java. I had done similar applications before in JavaScript, which gathered input and sent a payload to a Particle device, but I hadn't used Java to obtain input from a gamepad and send a payload through a REST API yet.
+
+## Accomplishments I'm proud of
+
+I'm proud of building the robot arm and developing the firmware to control it. I would have liked to complete more of the project, but I enjoyed the hackathon nonetheless. I learned more about robotics and leading a project.
+
+## Future Applications
+
+* Scripting Application (Using Bash scripts to relay list of instructions)
+* JavaFx Application (Using Java and Logitech Controller or Keyboard)
+* Web Application (Using Javascript/HTML/CSS)
+
 ## Team Members
 
-[Nathan Robinson](https://nrobinson.me) - Assembled the hardware, developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly.
+[Nathan Robinson](https://nrobinson.me) (Project Lead) - Assembled the hardware, developed the software for the robot arm controller, and created an API to allow the arm to be controlled wirelessly. Will create the frontend graphical user interface to allow the arm to be controlled wirelessly using a gamepad.
 
-J Tarness - Developed a frontend application to wirelessly communicate with the robot arm. Designed and pitched the project presentation.
-
-## Applications
-
-* Hardware (arm with Particle board attached)
-* Scripting Application (Using Bash scripts to relay list of instructions)
-* JavaFx Application (Using Logitech Controller or Keyboard)
-* Web Application (Using HTML buttons)
-
+J Tarness (Marketing) - Planned the presentation for the project and provided examples of applications for the robot arm.
 
 ## Hardware Used
 
@@ -50,12 +72,14 @@ J Tarness - Developed a frontend application to wirelessly communicate with the 
 
 * [Jamepad](https://github.com/williamahartman/Jamepad)
 
-## Trello Board (Task Management)
+## Trello Board (Project Management)
 
 [https://trello.com/b/WkxwAjBQ/robot-arm-project](https://trello.com/b/WkxwAjBQ/robot-arm-project)
+
 ## Travis CI (Continuous Integration Testing)
 
 [https://travis-ci.org/nrobinson2000/robot-arm](https://travis-ci.org/nrobinson2000/robot-arm)
+
 ## License
 
 Copyright (c) Nathan Robinson. All rights reserved.
