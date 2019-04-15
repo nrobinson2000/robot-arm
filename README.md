@@ -1,4 +1,6 @@
 # Rocket.Build Hackathon - Robot Arm Project
+
+[![Hackster](https://img.shields.io/badge/hackster-project-blue.svg)](https://particle.hackster.io/nrobinson2000/particle-powered-robot-arm-99c54f)
 [![Trello Board](https://img.shields.io/badge/trello-board-blue.svg)](https://trello.com/b/WkxwAjBQ/robot-arm-project)
 [![Build Status](https://travis-ci.org/nrobinson2000/robot-arm.svg?branch=master)](https://travis-ci.org/nrobinson2000/robot-arm)
 [![Open Issues](https://img.shields.io/github/issues/nrobinson2000/robot-arm.svg)](https://github.com/nrobinson2000/robot-arm/issues)
